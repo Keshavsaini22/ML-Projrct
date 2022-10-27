@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom right, #ffffff, #be01f7);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   .Cart-Container{
+    width: 70%;
+    height: 85%;
+    background-color: #c0e8f1;
+    border-radius: 20px;
+    box-shadow: 0px 25px 40px #1687d933;
+   }
+   .Header{
+    position: absolute;
+    top: 49.763;
+    width: 65%;
+    height: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items:baseline;
+   }
+   .Heading{
+    font-size: 20px;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    color: #2F3841;
+   }
+
+   form {
+   position: absolute;
+   }
+   .user-box{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+   }
+   
